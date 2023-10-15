@@ -46,7 +46,7 @@
 
 ###
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Abu-0-RayhaN/Abu-0-RayhaN/blob/output/github-contribution-grid-snake.gif)
 
 
 ###
