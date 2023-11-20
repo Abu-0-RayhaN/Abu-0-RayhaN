@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="center">My name is Abu Rayhan and I'm a Full Stack Developer from Dhaka, Bangladesh.</h4>
+<h4 align="center">My name is Md Rayhan and I'm a Full Stack Developer from Dhaka, Bangladesh.</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning Typescript, Postgresql<br>🎯 Goals: To be expert at what i do<br>🎲 Fun fact: Dare to challenge me to a game of chess?</p>
+<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React, Typescript, Postgresql.<br>🎯 Goals: Software Developer<br>🎲 Fun fact: Dare to challenge me to a game of chess?</p>
 
 ###
 
@@ -42,12 +42,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
 ###
 
-![snake gif](https://github.com/Abu-0-RayhaN/Abu-0-RayhaN/blob/output/github-contribution-grid-snake.gif)
-
+<img src="https://raw.githubusercontent.com/Abu-0-RayhaN/Abu-0-RayhaN/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -62,9 +65,6 @@
   </a>
   <a href="https://www.instagram.com/aburayhan_9286/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.rayhan844625@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://stackoverflow.com/users/16728369/abu-rayhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
