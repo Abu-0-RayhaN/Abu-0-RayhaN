@@ -50,8 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Abu-0-RayhaN/Abu-0-RayhaN/output/snake.svg" alt="Snake animation" />
-
+(![snake gif](https://github.com/Abu-0-RayhaN/Abu-0-RayhaN/blob/output/github-contribution-grid-snake.gif))
 ###
 
 <br clear="both">
