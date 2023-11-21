@@ -4,7 +4,7 @@ import amazonClone from "../public/img/projects/amazon-clone.png";
 import cyberBlog from "../public/img/projects/hoobank.png";
 import noorShop from "../public/img/projects/nike-store.png";
 import dynamicPortfolio from "../public/img/projects/tea-house.png";
-import reactBD from "../public/img/projects/todo-list.png";
+import reactBD from "../public/img/projects/service.png";
 import dashboard from "../public/img/projects/usability-hub.png";
 import Image from "next/image";
 import ProjectCard from "./ProjectCard";
@@ -21,8 +21,8 @@ const Projects = () => {
         />
         <ProjectCard
           img={reactBD.src}
-          title="To do list"
-          link="https://gleaming-twilight-3b1f11.netlify.app/"
+          title="Services Provider"
+          link="https://abu-0-rayhan.github.io/Tailwind-Starter-Project-with-darkMode/"
         />
         <ProjectCard
           img={cyberBlog.src}
