@@ -27,7 +27,6 @@ const Contact = () => {
           title="Facebook"
           link="https://www.facebook.com/abu.0.rayhan/"
         />
-        <SocialLink title="Nextjs" link="https://vercel.com/noorjsdivs" />
       </div>
     </div>
   );
