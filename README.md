@@ -10,7 +10,19 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>📚 I'm currently learning React, Typescript, Postgresql.<br>🎯 Goals: Software Developer<br>🎲 Fun fact: Dare to challenge me to a game of chess?</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-0-rayhan" alt="abu-0-rayhan" /></a> </p>
+
+- 🔭 I’m currently working on [News24](https://news-24-portal.netlify.app/)
+
+- 🌱 I’m currently learning **React, Postgresql, TypeScript**
+
+- 👯 I’m looking to collaborate on [Renting a home](https://github.com/Abu-0-RayhaN/Renting_A_Home)
+
+- 👨‍💻 All of my projects are available at [My Portfolio](https://abu-0-rayhan.netlify.app/)
+
+- 📫 How to reach me **rayhan844625@gmail.com**
+
+- 🎲 Fun fact: Dare to challenge me to a game of chess?
 
 ###
 
@@ -50,7 +62,10 @@
 
 ###
 
-(![snake gif](https://github.com/Abu-0-RayhaN/Abu-0-RayhaN/blob/output/github-contribution-grid-snake.gif))
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-0-rayhan&show_icons=true&locale=en&layout=compact" alt="abu-0-rayhan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-0-rayhan&show_icons=true&locale=en" alt="abu-0-rayhan" /></p>
+
 ###
 
 <br clear="both">
