@@ -10,8 +10,6 @@
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-0-rayhan" alt="abu-0-rayhan" /></a> </p>
-
 - 🔭 I’m currently working on [News24](https://news-24-portal.netlify.app/)
 
 - 🌱 I’m currently learning **React, Postgresql, TypeScript**
@@ -62,13 +60,26 @@
 
 ###
 
+###
+
+<h2 align="left">My Stats</h2>
+
+###
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-0-rayhan&show_icons=true&locale=en&layout=compact" alt="abu-0-rayhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-0-rayhan&show_icons=true&locale=en" alt="abu-0-rayhan" /></p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-0-rayhan" alt="abu-0-rayhan" /></a> </p>
 ###
 
 <br clear="both">
+
+###
+
+<h2 align="left">Connect with me</h2>
+
+###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abu-0-rayhan/" target="_blank">
