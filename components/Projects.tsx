@@ -19,36 +19,43 @@ const Projects = () => {
           img={newsportal.src}
           title="News24 Portal"
           link="https://news-24-portal.netlify.app/"
+          github="https://github.com/Abu-0-RayhaN/News-Portal"
         />
             <ProjectCard
               img={noorShop.src}
               title="Nike Clone"
               link="https://shop-nike1.netlify.app/"
+              github="https://github.com/Abu-0-RayhaN/Nike-Store"
             />
           <ProjectCard
             img={cyberBlog.src}
             title="HooBank"
             link="https://curious-pika-ec3e13.netlify.app/"
+            github="https://github.com/Abu-0-RayhaN/Application-0.0001"
           />
            <ProjectCard
           img={dynamicPortfolio.src}
           title="Tea House"
           link="https://abu-0-rayhan.github.io/Tea-House/"
+          github="https://github.com/Abu-0-RayhaN/Tea-House"
         />
         <ProjectCard
           img={dashboard.src}
           title="Usability Hub"
           link="https://helpful-bubblegum-1cb14f.netlify.app/"
+          github="https://github.com/Abu-0-RayhaN/UsabilityHub"
         />
         <ProjectCard
           img={amazonClone.src}
           title="Amazon Clone"
           link="https://magnificent-tiramisu-934b28.netlify.app/"
+          github="https://github.com/Abu-0-RayhaN/Amazon-clone"
         />
         <ProjectCard
           img={reactBD.src}
           title="Services Provider"
           link="https://abu-0-rayhan.github.io/Tailwind-Starter-Project-with-darkMode/"
+          github="https://github.com/Abu-0-RayhaN/Tailwind-Starter-Project-with-darkMode"
         />
        
 

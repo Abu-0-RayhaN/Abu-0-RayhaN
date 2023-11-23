@@ -3,9 +3,10 @@ interface Props {
   title: string;
   link: string;
   img: string;
+  github:string
 }
 
-const ProjectCard = ({ title, link, img }: Props) => {
+const ProjectCard = ({ title, link, img, github }: Props) => {
   return (
     <a href={link} target="_blank">
       <div className="w-full h-80 border-[1px] border-blue-600 overflow-hidden relative rounded-lg group">
@@ -17,7 +18,8 @@ const ProjectCard = ({ title, link, img }: Props) => {
           alt="Amazonclone"
         />
         <p className="absolute hidden group-hover:inline-block bottom-0 w-full py-1 bg-blue-600 text-white text-center font-semibold duration-300">
-          {title}
+          {title} &nbsp;|&nbsp;
+          <a href={github}>CodeBase</a>
         </p>
       </div>
     </a>
