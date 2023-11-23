@@ -69,10 +69,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-0-rayhan&show_icons=true&locale=en&layout=compact" alt="abu-0-rayhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-0-rayhan&show_icons=true&locale=en" alt="abu-0-rayhan" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abu-0-rayhan" alt="abu-0-rayhan" /></a> </p>
-###
-
 <br clear="both">
 
 ###
