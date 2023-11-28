@@ -10,7 +10,7 @@
 
 ###
 
-- 🔭 I’m currently working on [News24](https://news-24-portal.netlify.app/)
+- 🔭 I’m currently working on [FullStackApp](https://github.com/Abu-0-RayhaN/Project-full-stack)
 
 - 🌱 I’m currently learning **React, Postgresql, TypeScript**
 
