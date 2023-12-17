@@ -67,6 +67,8 @@
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
 </div>
 
 ###
