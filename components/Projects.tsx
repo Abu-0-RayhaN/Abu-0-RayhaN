@@ -7,7 +7,7 @@ import dynamicPortfolio from "../public/img/projects/tea-house.png";
 import reactBD from "../public/img/projects/service.png";
 import dashboard from "../public/img/projects/usability-hub.png";
 import newsportal from "../public/img/projects/news-portal.png";
-import Image from "next/image";
+import blog from "../public/img/projects/blog.png";
 import ProjectCard from "./ProjectCard";
 
 const Projects = () => {
@@ -15,6 +15,12 @@ const Projects = () => {
     <div className="wrapper">
       <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
+        <ProjectCard
+          img={blog.src}
+          title="Django Blog"
+          link="https://rkrayhan.pythonanywhere.com/"
+          github="https://github.com/Abu-0-RayhaN/Django-blog-project"
+        />
         <ProjectCard
           img={newsportal.src}
           title="News24 Portal"

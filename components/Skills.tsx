@@ -32,6 +32,10 @@ const Skills = () => {
         <SkillsInput title="Github" link="https://github.com/" />
         <SkillsInput title="Filmora X" link="https://trello.com/en" />
         <SkillsInput title="netlify" link="https://www.netlify.com/" />
+        <SkillsInput title="Hostinger" link="https://www.netlify.com/" />
+        <SkillsInput title="Python Anywhere" link="https://www.netlify.com/" /> 
+        <SkillsInput title="Postman" link="https://www.netlify.com/" /> 
+        <SkillsInput title="Docker" link="https://www.netlify.com/" /> 
       </div>
     </div>
   );
