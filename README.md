@@ -10,9 +10,9 @@
 
 ###
 
-- 🔭 I’m currently working on [FullStackApp](https://github.com/Abu-0-RayhaN/Project-full-stack)
+- 🔭 I’m currently working on [FiberNook](https://github.com/Abu-0-RayhaN/FiberNook)
 
-- 🌱 I’m currently learning **React, Postgresql, TypeScript**
+- 🌱 I’m currently learning **React, Rest Framework, Docker **
 
 - 👯 I’m looking to collaborate on [Renting a home](https://github.com/Abu-0-RayhaN/Renting_A_Home)
 
@@ -27,7 +27,6 @@
 <h2 align="left">I code with</h2>
 
 ###
-
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />

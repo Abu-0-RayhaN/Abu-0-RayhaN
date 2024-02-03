@@ -36,6 +36,7 @@ const Skills = () => {
         <SkillsInput title="Python Anywhere" link="https://www.netlify.com/" /> 
         <SkillsInput title="Postman" link="https://www.netlify.com/" /> 
         <SkillsInput title="Docker" link="https://www.netlify.com/" /> 
+        <SkillsInput title="AT Technologies" link="https://www.netlify.com/" /> 
       </div>
     </div>
   );
