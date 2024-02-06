@@ -43,8 +43,8 @@ const Projects = () => {
          <ProjectCard
           img={reactBD.src}
           title="Services Provider"
-          link="https://abu-0-rayhan.github.io/Tailwind-Starter-Project-with-darkMode/"
-          github="https://github.com/Abu-0-RayhaN/Tailwind-Starter-Project-with-darkMode"
+          link="https://abu-0-rayhan.github.io/Digital_Agency/"
+          github="https://github.com/Abu-0-RayhaN/Digital_Agency"
         />
           <ProjectCard
             img={cyberBlog.src}
