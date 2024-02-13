@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **React, Rest Framework, Docker **
 
-- 👯 I’m looking to collaborate on [Renting a home](https://github.com/Abu-0-RayhaN/Renting_A_Home)
+- 👯 I’m looking to collaborate on [Renting a home](https://github.com/Abu-0-RayhaN/RoomieMatch)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abu-0-rayhan.netlify.app/)
 
