@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abu-0-rayhan.netlify.app/)
 
-- 📫 Find me on Fiverr **[Fiverr](https://www.fiverr.com/abu_0_rayhan?up_rollout=true)**
+- 📫 Find me on **[Fiverr](https://www.fiverr.com/abu_0_rayhan?up_rollout=true)**
 
 - 🎲 Fun fact: Dare to challenge me to a game of chess?[chess.com](https://www.chess.com/member/abu-rayhan)
 
