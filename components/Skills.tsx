@@ -11,11 +11,11 @@ const Skills = () => {
           title="Javascript"
           link="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         />
-        <SkillsInput title="Reactjs" link="https://react.dev/" />
-        
-        <SkillsInput title="Bootstrap 5" link="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" />
-        
-        <SkillsInput title="Tailwindcss" link="https://tailwindcss.com/" />
+        <SkillsInput
+          title="Python"
+          link="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        />
+          <SkillsInput title="SQL" link="https://github.com/" />
         <SkillsInput
           title="HTML5"
           link="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"
@@ -24,10 +24,12 @@ const Skills = () => {
           title="CSS3"
           link="https://developer.mozilla.org/en-US/docs/Web/CSS"
         />
-        <SkillsInput title="Git" link="https://git-scm.com/" />
+        <SkillsInput title="Bootstrap 5" link="https://www.w3schools.com/bootstrap/bootstrap_ver.asp" />
+        <SkillsInput title="Tailwindcss" link="https://tailwindcss.com/" />
+        <SkillsInput title="Reactjs" link="https://react.dev/" />
         <SkillsInput title="Django" link="https://git-scm.com/" />
         <SkillsInput title="Django Rest Framework" link="https://git-scm.com/" />
-        <SkillsInput title="SQL" link="https://github.com/" />
+        <SkillsInput title="Git" link="https://git-scm.com/" />
         <SkillsInput title="Postgresql" link="https://github.com/" />
         <SkillsInput title="Github" link="https://github.com/" />
         <SkillsInput title="Filmora X" link="https://trello.com/en" />

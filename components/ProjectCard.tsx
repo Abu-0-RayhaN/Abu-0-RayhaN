@@ -20,7 +20,7 @@ const ProjectCard = ({ title, link, img, github,description }: Props) => {
         />
         <p className="absolute hidden group-hover:inline-block bottom-0 w-full py-1 bg-blue-600 text-white text-center font-semibold duration-300">
           <span className="underline">{title}</span> &nbsp;|&nbsp;
-          <a href={github} className="underline" target="_blank">Project Details</a>
+          <a href={github} className="underline" target="_blank">Github</a>
           <p>{description}</p>
         </p>
       </div>

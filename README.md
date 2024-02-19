@@ -10,15 +10,15 @@
 
 ###
 
-- 🔭 I’m currently working on [FiberNook](https://github.com/Abu-0-RayhaN/FiberNook)
+- 🔭 I’m currently working on [RoomieMatch](https://github.com/Abu-0-RayhaN/RoomieMatch)
 
 - 🌱 I’m currently learning **React, Rest Framework, Docker **
 
-- 👯 I’m looking to collaborate on [Renting a home](https://github.com/Abu-0-RayhaN/RoomieMatch)
+- 👯 I’m looking to collaborate on [FiberNook](https://github.com/Abu-0-RayhaN/FiberNook)
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abu-0-rayhan.netlify.app/)
 
-- 📫 How to reach me **rayhan844625@gmail.com**
+- 📫 Find me on Fiverr **[Fiverr](https://www.fiverr.com/abu_0_rayhan?up_rollout=true)**
 
 - 🎲 Fun fact: Dare to challenge me to a game of chess?[chess.com](https://www.chess.com/member/abu-rayhan)
 
