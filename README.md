@@ -14,8 +14,6 @@
 
 - 🌱 I’m currently learning **React, Rest Framework, Docker **
 
-- 👯 I’m looking to collaborate on [FiberNook](https://github.com/Abu-0-RayhaN/FiberNook)
-
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abu-0-rayhan.netlify.app/)
 
 - 📫 Find me on **[Fiverr](https://www.fiverr.com/abu_0_rayhan?up_rollout=true)**
