@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [RoomieMatch](https://github.com/Abu-0-RayhaN/RoomieMatch)
 
-- 🌱 I’m currently learning **React, TypeScript, Docker **
+- 🌱 I’m currently learning **React, TypeScript, Redux **
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abu-0-rayhan.netlify.app/)
 
@@ -31,7 +31,10 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="10" />
-   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="10" />
