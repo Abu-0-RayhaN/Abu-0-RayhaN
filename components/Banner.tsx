@@ -26,7 +26,7 @@ const Banner = () => {
              My commitment is to thrive in a dynamic environment, pushing the boundaries of my skills and knowledge. 
         </p>
           <button className=" px-5 h-14 bg-gradient-to-r from-blue-600 via-blue-700 to-indigo-950 text-xl font-bold text-white rounded-lg hover:from-indigo-950 hover:to-blue-600 duration-300">
-        <a href="/resume/md-rayhan.pdf" download>
+        <a href="/resume/MdRayhan.pdf" download>
             Resume
         </a>
             </button>
