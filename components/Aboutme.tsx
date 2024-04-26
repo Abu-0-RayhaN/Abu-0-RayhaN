@@ -5,7 +5,7 @@ const Aboutme = () => {
   return (
     <div className="wrapper">
       <Title text="Experience" icon={<SiInformatica />} />
-      <div className="text-lg tracking-wide flex justify-between gap-6">
+      <div className="text-lg tracking-wide flex flex-col md:flex-row gap-10">
         <div>
           <p className="font-bold text-xl">Frontend Developer</p>
           <p><span className="">After20solution</span>, Toronto-Ontario,Canada(remote)</p> 
