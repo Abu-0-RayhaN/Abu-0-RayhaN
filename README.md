@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [RoomieMatch](https://github.com/Abu-0-RayhaN/RoomieMatch)
 
-- 🌱 I’m currently learning **React, TypeScript, Redux **
+- 🌱 I’m currently learning **React, AWS, Redux **
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://abu-0-rayhan.netlify.app/)
 
