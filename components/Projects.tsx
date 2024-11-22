@@ -2,6 +2,7 @@ import { FaProjectDiagram } from "react-icons/fa";
 import Title from "./Title";
 import cyberBlog from "../public/img/projects/hoobank.png";
 import noorShop from "../public/img/projects/nike-store.png";
+import srs from "../public/img/projects/srs.png";
 import newsportal from "../public/img/projects/news-portal.png";
 import blog from "../public/img/projects/blog.png";
 import fiber from "../public/img/projects/fiber.png";
@@ -27,6 +28,13 @@ const Projects = () => {
             github="https://github.com/Abu-0-RayhaN/Nike-Store"
             description="Reactjs, Tailwindcss, Javascript, React Router Dom"
           />
+          <ProjectCard
+          img={srs.src}
+          title="SRS Global Logistics"
+          link="https://srsgloballogistics.com/"
+          github="https://srsgloballogistics.com/"
+          description="Reactjs, Tailwindcss, TypeScript,react-intersection-observer"
+        />
         <ProjectCard
           img={blog.src}
           title="Django Blog"
