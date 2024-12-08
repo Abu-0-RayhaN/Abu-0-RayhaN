@@ -27,6 +27,10 @@ const Contact = () => {
           title="Facebook"
           link="https://www.facebook.com/abu.0.rayhan/"
         />
+        <SocialLink
+          title="YouTube"
+          link="https://www.youtube.com/@WHY-RYANISM/"
+        />
       </div>
     </div>
   );
