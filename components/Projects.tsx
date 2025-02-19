@@ -7,6 +7,7 @@ import newsportal from "../public/img/projects/news-portal.png";
 import blog from "../public/img/projects/blog.png";
 import fiber from "../public/img/projects/fiber.png";
 import agency from "../public/img/projects/agency.png";
+import hunter from "../public/img/projects/hunter.png";
 import ProjectCard from "./ProjectCard";
 
 const Projects = () => {
@@ -14,6 +15,13 @@ const Projects = () => {
     <div className="wrapper">
       <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
+        <ProjectCard
+          img={hunter.src}
+          title="Hunter X Platform"
+          link="https://hunterx.pythonanywhere.com/"
+          github="https://hunterx.pythonanywhere.com/"
+          description="HTML, CSS3, Bootstrap5, Django, ORM, PostgreSql, JavaScript"
+        />
         <ProjectCard
           img={fiber.src}
           title="FiberNook"
