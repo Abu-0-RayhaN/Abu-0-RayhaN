@@ -16,6 +16,13 @@ const Projects = () => {
       <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10 place-items-center">
         <ProjectCard
+          img={fleetblox.src}
+          title="Fleetblox"
+          link="https://www.fleetblox.com/"
+          github="https://www.fleetblox.com/"
+          description="HTML, CSS3, React, NodeJs, PostgreSql, JavaScript"
+        />
+        <ProjectCard
           img={hunter.src}
           title="Hunter X Platform"
           link="https://hunterx.pythonanywhere.com/"
