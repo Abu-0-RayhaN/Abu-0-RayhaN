@@ -8,6 +8,7 @@ import blog from "../public/img/projects/blog.png";
 import fiber from "../public/img/projects/fiber.png";
 import agency from "../public/img/projects/agency.png";
 import hunter from "../public/img/projects/hunter.png";
+import fleetblox from "../public/img/projects/fleetblox.png";
 import ProjectCard from "./ProjectCard";
 
 const Projects = () => {
