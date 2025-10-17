@@ -48,7 +48,7 @@ const Projects = () => {
           img={srs.src}
           title="SRS Global Logistics"
           link="https://srsgloballogistics.com/"
-          github="https://srsgloballogistics.com/"
+          github="https://srsgloballogistic.netlify.app/"
           description="Reactjs, Tailwindcss, TypeScript,react-intersection-observer"
         />
         <ProjectCard
