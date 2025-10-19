@@ -10,7 +10,7 @@
 
 ###
 
-- 🔭 I’m currently working on [RoomieMatch](https://github.com/Abu-0-RayhaN/RoomieMatch)
+- 🔭 I’m currently working on [FiberNook](https://github.com/Abu-0-RayhaN/FiberNook)
 
 - 🌱 I’m currently learning **React, AWS, Redux **
 
@@ -68,17 +68,6 @@
 </div>
 
 ###
-
-###
-
-<h2 align="left">My Stats</h2>
-
-###
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abu-0-rayhan&show_icons=true&locale=en&layout=compact" alt="abu-0-rayhan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abu-0-rayhan&show_icons=true&locale=en" alt="abu-0-rayhan" /></p>
-<br clear="both">
 
 ###
 
