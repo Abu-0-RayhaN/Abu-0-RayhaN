@@ -39,10 +39,9 @@ const ProjectCard = ({
             </p>
           )}
 
-          <p className="text-gray-200 text-base leading-relaxed mb-6 line-clamp-4">
+          <p className="text-gray-200 text-base leading-relaxed mb-6 ">
             {description}
           </p>
-
           <div className="flex items-center gap-4 mt-auto">
             <a
               href={github}
