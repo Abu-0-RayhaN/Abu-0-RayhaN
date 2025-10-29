@@ -21,64 +21,73 @@ const Projects = () => {
           title="Fleetblox"
           link="https://www.fleetblox.com/"
           github="https://www.fleetblox.com/"
-          description="HTML, CSS3, React, NodeJs, PostgreSql, JavaScript"
+          tech="HTML, CSS3, React, NodeJs, PostgreSql, JavaScript"
+          description="Contributed to the development of a fleet management system, collaborating with a team to implement features and optimize performance. Focused on enhancing user experience through intuitive design."
         />
         <ProjectCard
           img={hunter.src}
           title="Hunter X Platform"
           link="https://hunterx.pythonanywhere.com/"
           github="https://hunterx.pythonanywhere.com/"
-          description="HTML, CSS3, Bootstrap5, Django, ORM, PostgreSql, JavaScript"
+          tech="HTML, CSS3, Bootstrap5, Django, ORM, PostgreSql, JavaScript"
+          description="Implemented user authentication and integrated the PostgreSQL database for a seamless user experience. Worked on improving the platform's scalability and performance."
         />
         <ProjectCard
           img={fiber.src}
           title="FiberNook"
           link="https://fibernook.netlify.app/"
           github="https://github.com/Abu-0-RayhaN/FiberNook"
-          description="React, Tailwindcss, Material UI, CSS3, Redux, Django Rest Framework, Django, Sqlite3"
+          tech="React, Tailwindcss, Material UI, CSS3, Redux, Django Rest Framework, Django, Sqlite3"
+          description="Developed key components and integrated Redux for state management in a full-stack e-commerce platform. Ensured responsive design for optimal mobile and desktop experiences."
         />
-          <ProjectCard
-            img={noorShop.src}
-            title="Nike Clone"
-            link="https://shop-nike1.netlify.app/"
-            github="https://github.com/Abu-0-RayhaN/Nike-Store"
-            description="Reactjs, Tailwindcss, Javascript, React Router Dom"
-          />
-          <ProjectCard
+        <ProjectCard
+          img={noorShop.src}
+          title="Nike Clone"
+          link="https://shop-nike1.netlify.app/"
+          github="https://github.com/Abu-0-RayhaN/Nike-Store"
+          tech="Reactjs, Tailwindcss, Javascript, React Router Dom"
+          description="Focused on building the product showcase and enhancing the user interface with Tailwind CSS. Collaborated with designers to create a visually appealing layout."
+        />
+        <ProjectCard
           img={srs.src}
           title="SRS Global Logistics"
           link="https://srsgloballogistics.com/"
           github="https://srsgloballogistic.netlify.app/"
-          description="Reactjs, Tailwindcss, TypeScript,react-intersection-observer"
+          tech="Reactjs, Tailwindcss, TypeScript, react-intersection-observer"
+          description="Implemented smooth scrolling animations and optimized the website for better user engagement using TypeScript. Conducted user testing to refine the interface."
         />
         <ProjectCard
           img={blog.src}
           title="Django Blog"
           link="https://rkrayhan.pythonanywhere.com/"
           github="https://github.com/Abu-0-RayhaN/Django-blog-project"
-          description="Html, CSS3, Bootstrap5, Django, ORM, Sqlite"
+          tech="Html, CSS3, Bootstrap5, Django, ORM, Sqlite"
+          description="Developed user authentication features and designed the blog layout using Bootstrap. Focused on SEO optimization to increase visibility."
         />
-         <ProjectCard
+        <ProjectCard
           img={agency.src}
           title="Michael Scott"
           link="https://abu-0-rayhan.github.io/Michael_Scott_Digital_Company/"
           github="https://github.com/Abu-0-RayhaN/Michael_Scott_Digital_Company"
-          description="Tailwindcss, HTML, CSS3, Vite"
+          tech="Tailwindcss, HTML, CSS3, Vite"
+          description="Created a responsive landing page using Vite and Tailwind CSS, focusing on user experience. Implemented best practices for performance optimization."
         />
         <ProjectCard
           img={newsportal.src}
           title="News24 Portal"
           link="https://news-24-portal.netlify.app/"
           github="https://github.com/Abu-0-RayhaN/News-Portal"
-          description="Reactjs, Tailwindcss, Javascript, React Router Dom"
+          tech="Reactjs, Tailwindcss, Javascript, React Router Dom"
+          description="Implemented article navigation and enhanced the user interface for better readability. Worked on integrating real-time news updates."
         />
-          <ProjectCard
-            img={cyberBlog.src}
-            title="HooBank"
-            link="https://curious-pika-ec3e13.netlify.app/"
-            github="https://github.com/Abu-0-RayhaN/Application-0.0001"
-            description="Reactjs, Javascript, Tailwindcss, CSS3, Html, Vite"
-          />
+        <ProjectCard
+          img={cyberBlog.src}
+          title="HooBank"
+          link="https://curious-pika-ec3e13.netlify.app/"
+          github="https://github.com/Abu-0-RayhaN/Application-0.0001"
+          tech="Reactjs, Javascript, Tailwindcss, CSS3, Html, Vite"
+          description="Designed the modern banking application interface and implemented responsive design principles. Focused on security features to protect user data."
+        />
       </div>
     </div>
   );

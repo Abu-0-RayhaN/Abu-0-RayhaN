@@ -16,10 +16,10 @@ const Banner = () => {
       <div className="w-3/4 flex flex-col items-center md:items-start    gap-2">
         <h1 className="text-5xl font-bold text-white">Md RayhaN</h1>
         <h3 className="text-xl md:text-2xl font-semibold bg-clip-text text-transparent bg-gradient-to-r from-blue-300 via-red-300 to-indigo-300 tracking-wide">
-          Full Stack Developer | Django Developer
+          Web Developer | Javascript, python enthusiast
         </h3>
         <p className="text-base tracking-wide text-center md:text-left">
-         As a passionate Full-Stack Developer, I have a strong focus on building modern, scalable web
+         As a passionate Web Developer, I have a strong focus on building modern, scalable web
           applications using technologies like React, TypeScript, Django, and REST APIs. I’ve contributed
            to real-world projects including Fleetblox, Hunter X Platform, and FiberNook, combining performance
             with user-focused design. My goal is to create impactful digital solutions while continuously
